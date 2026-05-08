@@ -1,0 +1,15 @@
+# ninja log v5
+16	1250	0	C:/Users/mtec22-002/VSProjects/cybernova/frontend/CyberNovaApp/android/app/.cxx/Debug/4u1x4213/arm64-v8a/CMakeFiles/cmake.verify_globs	c8d55f5fb961978d
+131	14897	7972772237606560	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/844de81130d5a8d3f324481a136d2d6f/safeareacontext/States.cpp.o	4410db5a4c46ea8e
+106	15629	7972772245313526	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/6986e577dfb5d1c44cf93aabd9bd08e3/EventEmitters.cpp.o	9b167525e4efaa7
+181	16423	7972772253253102	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/3059f28241b4b121b12aac34bc75d6c1/safeareacontext-generated.cpp.o	ad2aabf5ebf8ec4
+2	18656	7972772275409384	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/82e317b50219ee2b0a481c5905ef23d7/RNCSafeAreaViewState.cpp.o	9ec128254e9185f0
+156	18716	7972772276224721	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/6986e577dfb5d1c44cf93aabd9bd08e3/ShadowNodes.cpp.o	f4812b64d1fb341d
+206	18806	7972772277070005	CMakeFiles/appmodules.dir/OnLoad.cpp.o	2ac9134baf6c6649
+80	19414	7972772283081963	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/844de81130d5a8d3f324481a136d2d6f/safeareacontext/Props.cpp.o	3a77b12fc245cfac
+55	19991	7972772288888645	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/6986e577dfb5d1c44cf93aabd9bd08e3/ComponentDescriptors.cpp.o	10d5af1911ac6e0e
+30	20396	7972772293108496	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/82e317b50219ee2b0a481c5905ef23d7/RNCSafeAreaViewShadowNode.cpp.o	76edb31adfeb985e
+255	20719	7972772296244080	CMakeFiles/appmodules.dir/8249b491026fd5b443bb734bda79cbb2/CyberNovaApp/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	1c9b2eff7d14da03
+20397	20720	7972772296194114	C:/Users/mtec22-002/VSProjects/cybernova/frontend/CyberNovaApp/android/app/build/intermediates/cxx/Debug/4u1x4213/obj/arm64-v8a/libreact_codegen_safeareacontext.so	2f492f4881d76349
+20721	20898	7972772298275600	C:/Users/mtec22-002/VSProjects/cybernova/frontend/CyberNovaApp/android/app/build/intermediates/cxx/Debug/4u1x4213/obj/arm64-v8a/libappmodules.so	d53ccf5747002f8
+166	456	0	C:/Users/mtec22-002/VSProjects/cybernova/frontend/CyberNovaApp/android/app/.cxx/Debug/4u1x4213/arm64-v8a/CMakeFiles/cmake.verify_globs	c8d55f5fb961978d

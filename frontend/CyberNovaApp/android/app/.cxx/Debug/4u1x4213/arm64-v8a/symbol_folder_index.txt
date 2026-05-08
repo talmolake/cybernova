@@ -1,0 +1,1 @@
+C:\Users\mtec22-002\VSProjects\cybernova\frontend\CyberNovaApp\android\app\build\intermediates\cxx\Debug\4u1x4213\obj\arm64-v8a

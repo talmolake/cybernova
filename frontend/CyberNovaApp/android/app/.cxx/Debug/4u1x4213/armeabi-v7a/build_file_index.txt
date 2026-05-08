@@ -1,0 +1,2 @@
+C:\Users\mtec22-002\VSProjects\cybernova\frontend\CyberNovaApp\node_modules\react-native-safe-area-context\android\src\main\jni\CMakeLists.txt
+C:\Users\mtec22-002\VSProjects\cybernova\frontend\CyberNovaApp\node_modules\react-native\ReactAndroid\cmake-utils\default-app-setup\CMakeLists.txt
