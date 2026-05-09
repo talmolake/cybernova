@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CyberNova — Academic Prototype
 ### Mobile app | Node.js backend | PostgreSQL | OpenAI | Firebase
 
@@ -325,3 +326,7 @@ Authorization: Bearer YOUR_TOKEN_HERE
 | DELETE | /demos/:id | ✓ | Cancel a booking |
 | POST | /notifications/send | ✓ | Send push notification |
 | GET | /health | ✗ | Server health check |
+=======
+# cybernova
+CyberNova is a React Native mobile application and Node.js/Express backend API that provides AI-powered cybersecurity virtual assistance, service request management, and demo booking for enterprise clients.
+>>>>>>> 6cec61d16e58006e1e46070baf6c09da405d997d
