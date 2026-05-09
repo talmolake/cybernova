@@ -110,9 +110,9 @@ Expected output:
 ```
 [Firebase] Admin SDK initialised
 
-  ✅  CyberNova backend is running
-  🌐  http://localhost:3000
-  🔍  Health: http://localhost:3000/health
+  CyberNova backend is running
+  http://localhost:3000
+  Health: http://localhost:3000/health
 ```
 
 Test it: open http://localhost:3000/health in your browser. You should see:
